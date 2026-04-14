@@ -18,4 +18,4 @@ if __name__ == "__main__":
     print(is_leap_year(2001))  # False
     print(is_leap_year(2024))  # True
     print(is_leap_year(2026))  # False
-
+    print(is_leap_year(2027))  # False
